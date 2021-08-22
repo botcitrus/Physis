@@ -1,0 +1,11 @@
+{
+  "joinchannel": {}, 
+  "leavechannel": {},
+  "joinmessage": {}, 
+  "leavemessage": {}, 
+  "joinmembermessage": {}, 
+  "leavemembermessage": {}, 
+  "mentions": {}, 
+  "errors": {}, 
+  "reply": {}
+}
