@@ -65,4 +65,4 @@ for filename in os.listdir('./cogs'):
     if filename.endswith('.py'):
        client.load_extension(f'cogs.{filename[:-3]}')#вот это запустит твои коги
 
-client.run("ODgyNjE4NDI1Mjc5NjcyMzYw.YS-Adg.LaWuUDXpK5_Z-SdJ2twmP-HYTnU")
+client.run("YOUTOKEN")
